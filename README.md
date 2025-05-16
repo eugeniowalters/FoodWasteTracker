@@ -30,12 +30,13 @@ Could be a source of funding and support:
 ### Customers
 #### JTBD
 Understand food date labels: "sell by," "use by," and "best by" dates
+
 #### Pains
-Average American household could save at least $1,500 per year by eliminating food waste
-Lead consumers to discard perfectly edible food
-Tendency for overbuying, often fueled by impulse purchases, attractive bulk deals, and a lack of proactive meal planning before grocery shopping
-Lack specific knowledge about the optimal storage conditions for different types of food, resulting in premature degradation and disposal.
-Consumer preference for "perfect" produce also drives waste
+1. Average American household could save at least $1,500 per year by eliminating food waste
+2. Lead consumers to discard perfectly edible food
+3. Tendency for overbuying, often fueled by impulse purchases, attractive bulk deals, and a lack of proactive meal planning before grocery shopping
+4. Lack specific knowledge about the optimal storage conditions for different types of food, resulting in premature degradation and disposal.
+5. Consumer preference for "perfect" produce also drives waste
 
 Top Food Categories Wasted in US Households	Examples
 Produce	Lettuce, Bananas, Apples, Potatoes, Onions
