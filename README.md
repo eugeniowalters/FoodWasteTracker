@@ -20,9 +20,9 @@ Could be a source of funding and support:
 | Food Waste Prevention Week|Annual national event to raise awareness and encourage action on food waste.|Primarily focused on awareness and engagement. |
 | Residential Food Waste Collection Programs | Curbside and drop-off programs for composting.|47% increase in programs between 2021-2023 (BioCycle). |
 | State-Level Date Labeling Legislation (e.g., California) | Laws aimed at standardizing and clarifying food date labels.|Aims to reduce consumer confusion and prevent unnecessary waste. |
-| "Save More Than Food" Campaign (Upper Arlington, OH) | Community-based campaign using various communication channels. | 23% reduction in self-reported household food waste.|
+| "Save More Than Food" Campaign (Upper Arlington, OH) | Community-based campaign using various communication channels. |  23% reduction in self-reported household food waste.|
 
-
+##### New Entrants
 ##### Suppliers
 ##### Substitues
 ##### Buyers
