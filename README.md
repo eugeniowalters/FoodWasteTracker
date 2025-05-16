@@ -29,7 +29,7 @@ Could be a source of funding and support:
 
 ### Customers
 #### JTBD
-Understand food date labels: "sell by," "use by," and "best by" dates
+1. Understand food date labels: "sell by," "use by," and "best by" dates
 
 #### Pains
 1. Average American household could save at least $1,500 per year by eliminating food waste
@@ -38,12 +38,14 @@ Understand food date labels: "sell by," "use by," and "best by" dates
 4. Lack specific knowledge about the optimal storage conditions for different types of food, resulting in premature degradation and disposal.
 5. Consumer preference for "perfect" produce also drives waste
 
-Top Food Categories Wasted in US Households	Examples
-Produce	Lettuce, Bananas, Apples, Potatoes, Onions
-Prepared Foods	Leftovers
-Dairy	Milk, Cheese, Yogurt
-Grains	Bread
-Meat/Seafood	Chicken
+| Top Food Categories Wasted in US Households | Examples |
+| :--- | :--- |
+| Produce |	Lettuce, Bananas, Apples, Potatoes, Onions |
+| Prepared Foods | Leftovers |
+| Dairy |	Milk, Cheese, Yogurt |
+| Grains | Bread
+| Meat/Seafood | Chicken |
+
 #### Gains
  Convenience and perceived value of readily available and discounted food 
  Desire to feel like they are getting good value
