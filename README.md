@@ -95,5 +95,5 @@ Meat/Seafood	Chicken
 #### Sales Aids
 
 ### Production Plans
-- [*] Find data set for top wasted items
-- [] Look into the government programs for a source of funding and resources
+- [ ] Find data set for top wasted items
+- [ ] Look into the government programs for a source of funding and resources
